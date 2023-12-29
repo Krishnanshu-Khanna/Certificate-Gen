@@ -42,7 +42,7 @@ const App = () => {
     id="main-body"
     className={`m-0 p-0 bg-cover`}
     style={{
-    backgroundImage: prefersDarkMode ? 'url(/nightBG.jpg),linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4))' : 'url(/dayBG.jpg)linear-gradient,(rgba(0,0,0,0.4),rgba(0,0,0,0.4))',
+    backgroundImage: prefersDarkMode ? 'url(/nightBG.jpg),linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4))' : 'url(/dayBG.jpg),linear-gradient,(rgba(0,0,0,0.4),rgba(0,0,0,0.4))',
     }}
     >
     <div className='flex flex-col items-center justify-center min-h-screen'>
