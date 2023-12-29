@@ -1,6 +1,11 @@
 # Certificate Generator
 
 Certificate Generator is a simple web application that allows users to generate personalized certificates by entering their names. The application uses PDF generation to create a certificate with the provided name.
+https://certificate-gen-lilac.vercel.app/
+
+
+
+
 
 ## Features
 
@@ -61,6 +66,10 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a pull request.
+
+## Screenshot
+![image](https://github.com/Krishnanshu-Khanna/Certificate-Gen/assets/121768209/64ad59f2-0239-48a8-82db-2550157629ec)
+![image](https://github.com/Krishnanshu-Khanna/Certificate-Gen/assets/121768209/ee0bb587-d534-4d3f-886e-2b4de5e859d0)
 
 ## License
 
